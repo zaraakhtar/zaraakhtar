@@ -1,32 +1,36 @@
 <h1 align="center">Hi 👋, I'm Zara Akhtar</h1>
-<h3 align="center">iOS Developer | Swift & SwiftUI Enthusiast | Building Smooth & Intuitive Mobile Apps</h3>
+<h3 align="center">App Developer | React Native Enthusiast | Building Cross-Platform Mobile Apps with JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaraakhtar&label=Profile%20views&color=0e75b6&style=flat" alt="zaraakhtar" /> </p>
 
 - 🚀 I'm a Software Engineering graduate passionate about mobile app development  
-- 🍎 Currently focused on iOS development using **Swift** and **SwiftUI**  
-- 📱 Working on a **Crypto Tracker App** to help users monitor live cryptocurrency prices  
-- 💡 Previously developed an Android wellness app, **WellnessWise**, as my final year project  
-- 🌱 Always learning — diving deeper into the Apple ecosystem and advanced iOS architecture
+- 📱 Currently focused on **React Native** for building cross-platform apps using **JavaScript**  
+- 🌐 Exploring backend integration with **Firebase** and building seamless user experiences  
+- 📲 Working on a **City Trends App** that showcases trending spots in Lahore  
+- 🧠 Previously developed a wellness app called **WellnessWise** for Android as my final year project  
+- 🌱 Always learning — improving my UI/UX design skills and mastering app performance optimization
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- Add your social links here if any -->
+<!-- Add your LinkedIn, Portfolio, etc. -->
 </p>
 
 <h3 align="left">Languages & Tools I Use:</h3>
 <p align="left"> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Expo_Logo.svg" alt="expo" width="40" height="40"/> 
+</a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
 
