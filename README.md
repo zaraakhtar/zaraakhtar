@@ -6,7 +6,7 @@
 - 🚀 I'm a Software Engineering graduate passionate about mobile app development  
 - 📱 Currently focused on **React Native** for building cross-platform apps using **JavaScript**  
 - 🌐 Exploring backend integration with **Firebase** and building seamless user experiences  
-- 📲 Working on a **City Trends App** that showcases trending spots in Lahore  
+- 📲 Working on an **E-Commerce App**   
 - 🧠 Previously developed a wellness app called **WellnessWise** for Android as my final year project  
 - 🌱 Always learning — improving my UI/UX design skills and mastering app performance optimization
 
